@@ -239,7 +239,7 @@ nav a {
   float: left;
   top: 5.2%;
   /* right: -2000px; */
-  right: -150%;
+  right: -500%;
   width: 90vw;
   height: 100vh;
   transition: 0.5s ease;
